@@ -1,0 +1,19 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "a proxy server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DThompson55/VMIX-proxy-server.git"
+  },
+  "author": "DThompson55",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DThompson55/VMIX-proxy-server/issues"
+  },
+  "homepage": "https://github.com/DThompson55/VMIX-proxy-server#readme"
+}
